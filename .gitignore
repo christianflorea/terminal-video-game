@@ -2,4 +2,5 @@
 *.lib
 *.dev
 *.layout
+*.DS_Store
 BearLibTerminal_0.15.7/
